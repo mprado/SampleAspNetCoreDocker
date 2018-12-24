@@ -1,5 +1,4 @@
-# Exemplo de um prjeto ASP.NET Core 2.1 rodando em um container Docker 
-Sample ASP.NET Core 2.1 running in Docker container.
+# Exemplo de uma aplicação ASP.NET Core 2.1 rodando em um container Docker 
 
 ### Build e criação da imagem:
 docker build -t sample-aspnetcore-docker .
